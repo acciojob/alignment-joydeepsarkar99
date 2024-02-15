@@ -9,6 +9,12 @@ h1{
 tr{
 	height:20px;
 }
+.right{
+	text-align:right;
+}
+.center{
+	text-align:center;
+}
 #green_cell{
 	background-color:green;
 }
